@@ -1,2 +1,2 @@
 # tp--inf-frond-end
-creer les pages et leur mise en page 
+Ici, on mettra en place en place toute la partie visuelle de notre E-WALLET qui sera perçue par les utilisateurs 
